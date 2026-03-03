@@ -1,5 +1,4 @@
-# Snake-Game-in-C-
-# Snake Game
+# Snake-Game-in-C++
 
 A simple snake game that runs in the windows terminal. Built in C++.
 
