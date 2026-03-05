@@ -152,7 +152,7 @@ void handleinput()
     if  (key == 't' || key == 'T') wrap = !wrap;
 }
 
-// moves the snake, checks collisions, handles eating
+// moves the snake, check collisions, handles eating
 void update()
 {
     Point head = snake.front();
