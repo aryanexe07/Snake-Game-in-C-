@@ -136,7 +136,7 @@ void draw()
     drawrow(HEIGHT + 2, info);
 }
 
-// handles keyboard input
+// handles the keyboard input
 void handleinput()
 {
     if (!_kbhit())
@@ -232,4 +232,5 @@ int main()
     _getch();
 
     return 0;
+
 }
